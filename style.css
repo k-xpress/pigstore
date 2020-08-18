@@ -1,21 +1,23 @@
-header{background-color:goldenrod; 
-       text-align:center}
+header{background:linear-gradient (lightCyan,lightGreen,tan,Green); 
+       text-align:center;}
+       
+h1{font-size:300%;}
 
-#pgs{height:180px;
-           width:330px;
-}
-body{background-color:wheat;}
+h2{text-align:center;
+  background:wheat;
+  height:350px;}
+  
+#pgs{height:100px;
+     width:330px;}
 
-div,d,h,l,y{
-            padding:5px;
-            margin:5px;
-            height:150px;
-            width:150px;}
+div,d,h,l,y{border:solid black;
+            display:flex;
+            padding:10px;
+            margin:15px;}
             
 div,img{height:80px;
         width:80px;
-        text-align:center;
-}
+        text-align:center;}
             
-footer{background-color:black: 
-       color:white;}
+footer{background:linear-gradient(lightCyan,lighgtGreen,Green);}
+   
