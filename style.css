@@ -1,14 +1,18 @@
-header{background:linear-gradient (lightCyan,lightGreen,tan,Green); 
-       text-align:center;}
+header{background-color:goldenRod;
+       text-align:center;
+       width:600px;
+}
        
 h1{font-size:300%;}
 
 h2{text-align:center;
   background:wheat;
-  height:350px;}
+  height:350px;
+  width:600px;
+}
   
 #pgs{height:100px;
-     width:330px;}
+     width:600px;}
 
 div,d,h,l,y{border:solid black;
             display:flex;
@@ -17,7 +21,10 @@ div,d,h,l,y{border:solid black;
             
 div,img{height:80px;
         width:80px;
-        text-align:center;}
+        text-align:center;
+        margin-top:-30px;}
             
-footer{background:linear-gradient(lightCyan,lighgtGreen,Green);}
+footer{background:gold;
+        width:600px;
+}
    
