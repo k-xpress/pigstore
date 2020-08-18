@@ -1,0 +1,21 @@
+header{background-color:goldenrod; 
+       text-align:center}
+
+#pgs{height:180px;
+           width:330px;
+}
+body{background-color:wheat;}
+
+div,d,h,l,y{
+            padding:5px;
+            margin:5px;
+            height:150px;
+            width:150px;}
+            
+div,img{height:80px;
+        width:80px;
+        text-align:center;
+}
+            
+footer{background-color:black: 
+       color:white;}
